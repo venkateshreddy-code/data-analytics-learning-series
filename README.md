@@ -1,4 +1,3 @@
-Sure! Here’s a clean README template tailored for a **Data Analytics** course repository, including your email:
 
 ````markdown
 # Data Analytics Learning Series
